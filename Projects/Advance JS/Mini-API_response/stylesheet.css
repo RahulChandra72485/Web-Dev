@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+}
+
+
+#inpcountry{
+    margin-inline: 1vw;
+}
+
+.firstdiv{
+    height: auto;
+    width: auto;
+    background-image: linear-gradient(rgb(29, 29, 74),rgb(71, 71, 32));
+    align-items: center;
+    text-align: center;
+}
+
+#list{
+    color: antiquewhite;
+    
+}
