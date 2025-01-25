@@ -209,7 +209,7 @@ try {
             let li = document.createElement("li");
             li.innerText = element.name;
             ul.appendChild(li);
-        }
+        }git 
         input.value = "";
         
 
